@@ -1,0 +1,21 @@
+# Basic Configuration
+title: Bioinformatics Portfolio
+description: Computational biology research and tools
+
+# Theme
+theme: minima
+
+# Build Settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude README.md from the Jekyll build now that index.md is the
+# canonical source for this page. Without this, GitHub Pages' auto
+# `jekyll-titles-from-headings` plugin builds README.md into a second,
+# near-identical page (e.g. /README.html) sitting alongside index.html —
+# same title, same content, duplicated.
+exclude:
+  - README.md
