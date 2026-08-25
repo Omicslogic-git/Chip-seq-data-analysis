@@ -1,0 +1,12 @@
+# Basic Configuration
+title: Bioinformatics Portfolio
+description: Computational biology research and tools
+
+# Theme
+theme: minima
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
