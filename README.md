@@ -1,6 +1,9 @@
 # GSE68952 H3K4me3 ChIP-seq Pipeline
 ### Huntington Disease vs Control · Human PFC Neurons · hg38
 
+# Theme
+theme: minima
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://www.linux.org/)
 [![Conda](https://img.shields.io/badge/Managed%20with-mamba-green.svg)](https://mamba.readthedocs.io/)
