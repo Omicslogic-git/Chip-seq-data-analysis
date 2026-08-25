@@ -1,4 +1,6 @@
-# GSE68952 H3K4me3 ChIP-seq Pipeline
+   ---
+   title: GSE68952 H3K4me3 ChIP-seq Pipeline
+   ---
 
 ### Huntington Disease vs Control · Human PFC Neurons · hg38
 
