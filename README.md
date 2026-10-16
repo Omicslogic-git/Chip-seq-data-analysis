@@ -7,6 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://www.linux.org/)
 [![Conda](https://img.shields.io/badge/Managed%20with-mamba-green.svg)](https://mamba.readthedocs.io/)
 [![Genome](https://img.shields.io/badge/Genome-hg38%20GRCh38-orange.svg)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/)
+[DOI: Zenodo](https://doi.org/10.5281/zenodo.23419525)
 
 A fully reproducible 10-stage ChIP-seq analysis pipeline for the re-analysis of
 [GSE68952](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68952) —
