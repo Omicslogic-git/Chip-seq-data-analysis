@@ -1,10 +1,10 @@
 cff-version: 1.0.0
 message: "Please cite this software."
-title: "fastq-summary"
+title: "Chip-Seq_Scripts"
 authors:
   - family-names: Research
     given-names: Omicslogic
 version: 1.0.0
 date-released: 2026-10-16
 license: MIT
-repository-code: "https://github.com/you/fastq-summary"
+repository-code: "https://github.com/Omicslogic-git/Chip-seq-data-analysis/"
